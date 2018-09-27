@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#009688</color>
+    <color name="colorPrimaryDark">#00796B</color>
+    <color name="colorAccent">#00BCD4</color>
+    <color name="background">#E8F5E9</color>
+    <color name="primary_text">#13300a</color>
+    <color name="secondary_text">#757575</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="divider">#BDBDBD</color>
+    <color name="image">#00897B</color>
+    <color name="info">#9ccc65</color>
+    <color name="email">#4CAF50</color>
+    <color name="phone">#26a69a</color>
+</resources>
